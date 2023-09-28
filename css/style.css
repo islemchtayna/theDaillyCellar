@@ -391,6 +391,7 @@ p {
 
     .about .about-art {
         flex-direction: column;
+        align-items: center;
 
 
     }
