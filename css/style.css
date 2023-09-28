@@ -358,7 +358,7 @@ p {
 
     .hero .container .home .article-home .image img {
         position: static;
-        max-width: 300px;
+        width: 300px;
         height: 350px;
     }
 
@@ -409,7 +409,7 @@ p {
     }
 
     .about .about-art .about-img img {
-        max-width: 300px;
+        width: 300px;
         height: 350px;
     }
 
