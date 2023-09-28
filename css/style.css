@@ -391,13 +391,16 @@ p {
 
     .about .about-art {
         flex-direction: column;
-        align-items: center;
+
 
 
     }
 
     .about .about-par {
         width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
     .about .about-art h1 {
